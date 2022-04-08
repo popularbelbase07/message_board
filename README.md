@@ -3,7 +3,7 @@ This is a complete django project for message_board app.It can able to manage cm
 
 * Create a virtual Environment for python
 
-     python -m venv py-env/message_board
+      python -m venv py-env/message_board
 
 * Activate the virtual environment
 
