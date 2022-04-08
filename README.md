@@ -1,0 +1,2 @@
+# message_board
+This is a complete django project for message_board app.It can able to manage cms service.cms state for Content Management System. Basically, It is a software application or a set of programs that are used to create and manage digital content. It provides capabilities for multiple users with different permission levels to manage web pages.Eventually, some testing scanerio has been done for this application.
