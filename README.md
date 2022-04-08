@@ -68,3 +68,6 @@ Django Admin : http://127.0.0.1:8000/admin/
 * Test the test date in django project
 
       python manage.py test
+
+* Deployment in heroku (Tutorial )
+      https://realpython.com/django-hosting-on-heroku/
